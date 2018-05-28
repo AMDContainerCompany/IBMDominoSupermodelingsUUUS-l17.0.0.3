@@ -1,0 +1,11 @@
+C:\Users\aydua\source\repos\IBM Domino Supermodelings UUUS-l 17.0.0.3\IBM Domino Supermodelings UUUS-l 17.0.0.3\obj\ARM\Release\IBM Domino Supermodelings UUUS-l 17.0.0.3.vbprojAssemblyReference.cache
+C:\Users\aydua\source\repos\IBM Domino Supermodelings UUUS-l 17.0.0.3\IBM Domino Supermodelings UUUS-l 17.0.0.3\obj\ARM\Release\App.g.i.vb
+C:\Users\aydua\source\repos\IBM Domino Supermodelings UUUS-l 17.0.0.3\IBM Domino Supermodelings UUUS-l 17.0.0.3\obj\ARM\Release\App.g.vb
+C:\Users\aydua\source\repos\IBM Domino Supermodelings UUUS-l 17.0.0.3\IBM Domino Supermodelings UUUS-l 17.0.0.3\obj\ARM\Release\MainPage.g.i.vb
+C:\Users\aydua\source\repos\IBM Domino Supermodelings UUUS-l 17.0.0.3\IBM Domino Supermodelings UUUS-l 17.0.0.3\obj\ARM\Release\MainPage.g.vb
+C:\Users\aydua\source\repos\IBM Domino Supermodelings UUUS-l 17.0.0.3\IBM Domino Supermodelings UUUS-l 17.0.0.3\obj\ARM\Release\XamlTypeInfo.g.vb
+C:\Users\aydua\source\repos\IBM Domino Supermodelings UUUS-l 17.0.0.3\IBM Domino Supermodelings UUUS-l 17.0.0.3\obj\ARM\Release\App.xaml
+C:\Users\aydua\source\repos\IBM Domino Supermodelings UUUS-l 17.0.0.3\IBM Domino Supermodelings UUUS-l 17.0.0.3\obj\ARM\Release\MainPage.xaml
+C:\Users\aydua\source\repos\IBM Domino Supermodelings UUUS-l 17.0.0.3\IBM Domino Supermodelings UUUS-l 17.0.0.3\obj\ARM\Release\App.xbf
+C:\Users\aydua\source\repos\IBM Domino Supermodelings UUUS-l 17.0.0.3\IBM Domino Supermodelings UUUS-l 17.0.0.3\obj\ARM\Release\MainPage.xbf
+C:\Users\aydua\source\repos\IBM Domino Supermodelings UUUS-l 17.0.0.3\IBM Domino Supermodelings UUUS-l 17.0.0.3\obj\ARM\Release\XamlSaveStateFile.xml
